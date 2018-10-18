@@ -4,8 +4,8 @@
   "main": "dist/upgradeOnline.js",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --config ./webpack/dev.config.js",
-    "build": "webpack --config webpack/prod.config.js"
+    "start": "webpack-dev-server --config ./webpack/webpack.config.dev.js",
+    "build": "webpack --config webpack/webpack.config.prod.js"
   },
   "dependencies": {
     "babel-upgrade": "^0.0.24",
