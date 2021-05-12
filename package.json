@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "babel-upgrade": "^0.0.24",
-    "codemirror": "^5.40.2",
+    "codemirror": "^5.58.2",
     "json-format": "^1.0.1",
     "react": "^16.5.2",
     "react-codemirror2": "^5.1.0",
